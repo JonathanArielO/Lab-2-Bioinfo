@@ -18,11 +18,11 @@ Cuesta 0.123.
 ##### 8. ¿Cuál es la longitud total del alineamiento?
 La longitud total del alineamiento es de 1934 pb.
 ##### 9. ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
-El colobo rojo ugandés (Piliocolobus tephrosceles).
+El colobo rojo ugandés (*Piliocolobus tephrosceles*).
 ##### 10. ¿Cuál es el más lejano?
-
+La morsa (*Odobenus rosmarus*).
 ##### 11. ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
-El caballo de Przewalski (Equus przewalskii). ​​
+El caballo de Przewalski (*Equus przewalskii*).
 ##### 12. ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
 Si el valor de abrir gaps aumenta, el programa insertará menos, mientras si la penalización es menor, el programa pondrá más gaps.
 ##### 13. ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?
@@ -31,7 +31,7 @@ Si el valor de extender gaps aumenta, el programa va a poner gaps de menor exten
 Al aumentar el costo de la apertura de gaps se generaron menos, lo que provocó que la alineación redujera su tamaño.
 ##### 15. Prueba lo mismo, pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento.
 Se producen más extensiones, por lo tanto, aumenta la longitud de la alineación.
-##Parte 3: Diseño de partidores
+## Parte 3: Diseño de partidores
 ##### 16. Agrega a tu informe una lista de los "LEFT PRIMER" y "RIGHT PRIMER" que obtuviste usando Primer3.
 - "LEFT PRIMER": AGAGTGAAGCGACCCATGAA.
 - "RIGHT PRIMER": TTACAGGCCATGCACAGAGA.
